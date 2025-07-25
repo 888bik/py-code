@@ -1,0 +1,6 @@
+hello python
+hello java
+hello javascript
+hello rust
+hello swift
+hello c++

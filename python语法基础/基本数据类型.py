@@ -1,8 +1,8 @@
-name = "bik" #str
-age = 18 #int
-salary = 1000000.1 # float
-is_perfect = True #bool
-team = None # None
+name = "bik"  # str
+age = 18  # int
+salary = 1000000.1  # float
+is_perfect = True  # bool
+team = None  # None
 
 print(type(name))
 print(type(age))
